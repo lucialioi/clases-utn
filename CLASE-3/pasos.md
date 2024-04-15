@@ -12,3 +12,11 @@ se crea un repositorio en github, new repositori, public, poner el nombre y se c
 una vez hecho esto se abre un cadradito de logueo asi verificar si somos nosotros pusheado, ya sea el dueño o los colaboradores 
 
 con esto tenemos el repo subido a github
+
+si estas actualizando 
+git add .
+git commit -m "nuevo"
+git push
+
+si nos equivocamos al poner git remote usamos el comando
+git remote set-url origin <url_correctao> una vez puesto esto se pone git push -u origin main 
