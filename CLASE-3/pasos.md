@@ -13,10 +13,13 @@ una vez hecho esto se abre un cadradito de logueo asi verificar si somos nosotro
 
 con esto tenemos el repo subido a github
 
-si estas actualizando 
+**para actualizar**
+se pone control s y la bolita blanca va a desaparecer luego se pone los siguientes comandos:  
 git add .
 git commit -m "nuevo"
 git push
 
-si nos equivocamos al poner git remote usamos el comando
+luego se refleja en el github
+
+**si nos equivocamos al poner git remote usamos el comando**
 git remote set-url origin <url_correctao> una vez puesto esto se pone git push -u origin main 
