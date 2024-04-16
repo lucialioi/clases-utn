@@ -5,7 +5,7 @@
     -git commit -m "agregar descripcion"
     -git branch -M main (cambia el nombre de la rama master a main)
 
-se crea un repositorio en github, new repositori, public, poner el nombre y se crea el link 
+**se crea un repositorio en github, new repositori, public, poner el nombre y se crea el link**
 
     git remote add origin "el link del repositorio nuevo ya hecho"
     git push -u origin main (voy a enviar de forma remota lo q se este haciendo/añadido a una parte de main)
